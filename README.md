@@ -554,17 +554,20 @@ route add -net 192.168.0.0 netmask 255.255.224.0 gw 192.168.32.2
 route add -net 10.151.77.92 netmask 255.255.255.252 gw 192.168.32.2
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.151.76.45
 ```
+<br>
 
 **Pasuruan (ROUTER)**
 ```
 route add -net 192.168.128.0 netmask 255.255.240.0 gw 192.168.144.2
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.192.1
 ```
+<br>
 
 **Probolinggo (ROUTER)**
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.144.1
 ```
+<br>
 
 **Batu (ROUTER)**
 ```
@@ -573,19 +576,23 @@ route add -net 192.168.0.0 netmask 255.255.248.0 gw 192.168.8.2
 route add -net 10.151.77.92 netmask 255.255.255.252 gw 192.168.8.2
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.32.1
 ```
+<br>
 
 **Kediri (ROUTER)**
 ```
 route add -net 192.168.0.0 netmask 255.255.252.0 gw 192.168.4.2
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.8.1
 ```
+<br>
 
 **Madiun (ROUTER)**
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.16.1
 ```
+<br>
 
 **Blitar (ROUTER)**
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.4.1
 ```
+<br>
