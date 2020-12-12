@@ -7,12 +7,12 @@
 #
 
 ### Pengerjaan Soal
-1. [Pembagian SubNet](#VLSM)
-2. [Metode CIDR](#CIDR)
+1. [Pembagian Subnet](#Pembagian_Subnet)
+2. [Metode VLSM](#VLSM)
 3. [Metode CIDR](#CIDR)
 #
 
-# Pembagian Subnet
+# Pembagian_Subnet
 Untuk server MOJOKERTO dan MALANG, tidak perlu diikutkan dalam subnet pembagian IP, karena mereka menggunakan NID DMZ: 10.151.77.88/29, di mana akan dipecah masing-masing mendapatkan NID 10.151.79.89/30 dan 10.151.79.93/30. 
 
 ![Soal Shift Modul 4](https://user-images.githubusercontent.com/57977401/101971748-80ce3980-3c6e-11eb-94c3-a90e6ba771df.png)
