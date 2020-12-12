@@ -360,7 +360,7 @@ iface lo inet loopback
 
 auto eth0
 iface eth0 inet static
-address 10.151.77.91 
+address 10.151.77.90
 netmask 255.255.255.252
 gateway 10.151.77.89
 ```
@@ -375,9 +375,9 @@ iface lo inet loopback
 
 auto eth0
 iface eth0 inet static
-address 10.151.77.93
+address 10.151.77.92
 netmask 255.255.252.0
-gateway 10.151.77.92
+gateway 10.151.77.91
 ```
 
 ![Interfaces MALANg](https://user-images.githubusercontent.com/57977401/101990757-3e930f80-3ce3-11eb-9ab3-00ef09c71efe.png)
